@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmubeen29&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmubeen29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmubeen29" alt="muhammadmubeen29" /></a> </p>
-
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 
 - 📫 How to reach me **mubeenmukhtar29@gmail.com**
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmubeen29&show_icons=true&locale=en" alt="muhammadmubeen29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmubeen29&" alt="muhammadmubeen29" /></p>
-
